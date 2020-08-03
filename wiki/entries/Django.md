@@ -1,0 +1,1 @@
+  <p><p><p><pre><code>          <h1>Django</h1></code></pre></p><p>Django is a web framework written using <a href="/wiki/Python">Python</a> that allows for the design of web applications that generate <a href="/wiki/HTML">HTML</a> dynamically.</p></p></p>
